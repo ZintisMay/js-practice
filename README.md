@@ -17,6 +17,8 @@ Some problems require more than just those, so be wary.
 
 You should not need to write any for or while loops.
 
+Please save your work in a branch with your name on it locally. If you prefer, you can fork this repo and do your work there.
+
 NOTE:
 
 Some problems require you to have completed a previous problem. Keep that in mind. 

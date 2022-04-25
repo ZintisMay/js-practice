@@ -63,6 +63,7 @@ let editedSchoolList;
 
 // CODE ENDS HERE ////////////////////////////////////////////////////////////////////////////////
 console.log("1-3)","editedSchoolList", editedSchoolList)
+schoolList = editedSchoolList
 
 
 
